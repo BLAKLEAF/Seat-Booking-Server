@@ -4,14 +4,12 @@ import express, {
   Response,
   ErrorRequestHandler,
 } from "express";
-// import cors from "cors";
 import router from "./routes";
 import createError from "http-errors";
 
 const app = express();
 
 app.use(express.json());
-// app.use(cors());
 app.use("/floors", router);
 
 app.use((req: Request, res: Response, next: NextFunction) => {
