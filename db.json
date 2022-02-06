@@ -1,0 +1,100 @@
+{
+  "floors": [
+    {
+      "id": 1,
+      "seats": [
+        {
+          "id": 1,
+          "seatBooked": false
+        },
+        {
+          "id": 2,
+          "seatBooked": false
+        },
+        {
+          "id": 3,
+          "seatBooked": true
+        },
+        {
+          "id": 4,
+          "seatBooked": false
+        },
+        {
+          "id": 5,
+          "seatBooked": true
+        },
+        {
+          "id": 6,
+          "seatBooked": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seats": [
+        {
+          "id": 1,
+          "seatBooked": true
+        },
+        {
+          "id": 2,
+          "seatBooked": false
+        },
+        {
+          "id": 3,
+          "seatBooked": false
+        },
+        {
+          "id": 4,
+          "seatBooked": true
+        },
+        {
+          "id": 5,
+          "seatBooked": false
+        },
+        {
+          "id": 6,
+          "seatBooked": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seats": [
+        {
+          "id": "1",
+          "seatBooked": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seats": [
+        {
+          "id": 1,
+          "seatBooked": false
+        },
+        {
+          "id": 2,
+          "seatBooked": false
+        },
+        {
+          "id": 3,
+          "seatBooked": false
+        },
+        {
+          "id": 4,
+          "seatBooked": true
+        },
+        {
+          "id": 5,
+          "seatBooked": false
+        },
+        {
+          "id": 6,
+          "seatBooked": false
+        }
+      ]
+    }
+  ]
+}
